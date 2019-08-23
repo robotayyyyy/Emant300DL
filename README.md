@@ -8,4 +8,4 @@ Clone this repository then seek for [emanttest.exe](./emanttest/bin/Debug/).
 Emant300
 ![](http://emant.com/image/EMANT300.jpg)
 App GUI
-![](.emanttest/app.PNG)
+![](./emanttest/app.PNG)
